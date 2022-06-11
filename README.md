@@ -5,6 +5,6 @@ Built-in FIG Forth.
 
 Learn to program in assmebly code.
 
-!.[.].(./scrnshot1.png)
+![](./scrnshot1.png)
 
-!.[.].(./scrnshot2.png)
+![](./scrnshot2.png)
